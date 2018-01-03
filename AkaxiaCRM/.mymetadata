@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AkaxiaCRM"
+  id="myeclipse.1514815814753"
+  context-root="/AkaxiaCRM"
+  j2ee-spec="5.0"
+  archive="AkaxiaCRM.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
